@@ -1,1 +1,19 @@
-Django~=3.2.10
+ python manage.py startapp blog
+http://127.0.0.1:8000/admin/blog/post/
+
+ python manage.py startapp blog
+
+GIT naaan2024
+junkichijunjun01
+
+https://tutorial.djangogirls.org/ja/deploy/
+
+-------------------------------------------------
+ cd djangogirls
+
+python manage.py createsuperuser
+
+PS C:\Users\puras>  cd djangogirls
+PS C:\Users\puras\djangogirls> python3 -m venv myvenv
+Python
+PS C:\Users\puras\djangogirls>  myvenv\Scripts\activate
